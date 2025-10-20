@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-![WhatsApp API](https://files.catbox.moe/2cee54.jpg)
+![WhatsApp API](https://files.catbox.moe/1sop12.jpg)
 
 </div>
 
